@@ -1,7 +1,7 @@
 # <p align=center> Environmental and Epidemiological modeling data 
 
 
-This repository provides the data of Environmental and Epidemiological modeling for the paper **Co-Benefit Environmental and Health Impact Assessment of Carbon Border Adjustments** conducted by *Huynh T. T. Tran,  Anh Phuong Ngo, 
+This repository provides the data of Environmental and Epidemiological modeling in the paper **Co-Benefit Environmental and Health Impact Assessment of Carbon Border Adjustments** conducted by *Huynh T. T. Tran,  Anh Phuong Ngo, 
  Konstantinos Oikonomou,  and Hieu T. Nguyen*.
 
 After installing the COBRA application, the users will find the data stored in the "path_to_COBRA\COBRA\data\cobra.db" file. Using DB Browser (SQLite), we extract the S-R matrix for the base year 2016 and save it as a CSV file.
