@@ -1,4 +1,4 @@
-# <p align=center> Carbon_border_adjustments
+# <p align=center> Environmental and Epidemiological modeling data 
 
 
 This repository provides the supplementation for the paper **Co-Benefit Environmental and Health Impact Assessment of Carbon Border Adjustments** conducted by *Huynh T. T. Tran,  Anh Phuong Ngo, 
