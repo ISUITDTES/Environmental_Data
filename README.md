@@ -1,8 +1,7 @@
 # <p align=center> Environmental and Epidemiological modeling data 
 
 
-This repository provides the data of Environmental and Epidemiological modeling in the paper **Co-Benefit Environmental and Health Impact Assessment of Carbon Border Adjustments** conducted by *Huynh T. T. Tran,  Anh Phuong Ngo, 
- Konstantinos Oikonomou,  and Hieu T. Nguyen*.
+
 
 The data comes from the open source "CO-Benefits Risk Assessment Health Impacts Screening and Mapping Tool (COBRA)" provided by the U.S. Environmental Protection Agency (EPA).
 
